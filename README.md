@@ -1,6 +1,4 @@
-## Hola, I'm [Pawan Kumar!](https://pawan.live) 👋
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+## Hello, I'm Necmettin! 👋
 
 <a href="https://twitter.com/ncmttnynk">
   <img align="left" alt="Necmettin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -26,7 +24,7 @@
 
 
 
-- 🔭 I’m currently working on [Turkish Technic](https://turkishtechnic.com/). <code><img height="20" src="https://cdn.thyteknik.com.tr/tt/Prod/Content/images/thyTechnic_logo.svg"></code>
+- 🔭 I’m currently working on <code><a href="https://turkishtechnic.com/" target="_blank"><img height="20" src="https://cdn.thyteknik.com.tr/tt/Prod/Content/images/thyTechnic_logo.svg"></a></code>
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
 - 🤔 I’m looking for help with VelocityX documentation.
