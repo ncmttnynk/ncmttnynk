@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on <code><a href="https://turkishtechnic.com/" target="_blank"><img height="20" src="https://cdn.thyteknik.com.tr/tt/Prod/Content/images/thyTechnic_logo.svg"></a></code>
 - 🌱 I’m currently interested in Full Stack Development. I use any framework for development but I like .NET.
-- ✌  I like JavaScript!
+- ⚡   I like any of JavaScript framework!
 - 📫 How to reach me: [Twitter - @ncmttnynk](https://twitter.com/nyanik_)
 
 
