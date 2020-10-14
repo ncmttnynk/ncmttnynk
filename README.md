@@ -34,6 +34,6 @@
 <div align="center">
 
 <a href="https://github.com/ncmttnynk">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ncmttnynk&show_icons=true&theme=black&line_height=27" alt="Necmettin's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ncmttnynk&show_icons=true&theme=radical&line_height=27" alt="Necmettin's github stats"/>
 </a>
 </div>
